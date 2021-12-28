@@ -1,7 +1,7 @@
 ### print('Hello World!')
 
 I'm Pedro Jorge <a href="https://www.linkedin.com/in/pedro-jorge-a637b6160/">
-  <img align="center" alt="Pedro's LinkdeIN" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>, a Data Science Student, passionate about programmin and games. I have a bachelor's degree in Tourism, from [@UFSCar](https://www.ufscar.br/) and I'm currently working at [@Expedia Brazil](https://www.expedia.com.br/), as an Air Fulfillment Agent.
+  <img align="center" alt="Pedro's LinkdeIN" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>, a Data Science Student, passionate about programmin and games. I have a bachelor's degree in Tourism from [@UFSCar](https://www.ufscar.br/), and I'm currently working at [@Expedia Brazil](https://www.expedia.com.br/), as an Air Fulfillment Agent.
 ##
 
 #### 📚 What am I studying?
